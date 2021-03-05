@@ -1,0 +1,7 @@
+﻿{
+	"PostgresApp": {
+		"ConnectionString": "Host=localhost;Username=postgres;Password=admin;Database=postgres;",
+		"AppName": "Movie App",
+		"Version": 2.5
+	}
+}
